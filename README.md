@@ -1,4 +1,4 @@
-repoTest
+My First Repo
 ========
 
-testing repo
+testing my first repo
